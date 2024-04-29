@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "id" : 1,
+      "name": "Chair",
+      "subcategory": [
+        "Arm Chairs",
+        "Rocking Chairs",
+        "Folding Chairs",
+        "Cafe Chairs"
+      ]
+    },
+    {
+      "id" : 2,
+      "name": "Bed",
+      "subcategory": [
+        "Single Beds",
+        "King Size Beds",
+        "Queen Size Beds"
+      ]
+    },
+    {
+      "id" : 3,
+      "name": "Bed Side Table",
+      "subcategory": [
+        "Contemporary",
+        "Modern",
+        "Traditional"
+      ]
+    },
+    {
+      "id" : 4,
+      "name": "Center Table",
+      "subcategory": [
+        "Coffee Tables"
+      ]
+    },
+    {
+      "id" : 5,
+      "name": "Dining Table",
+      "subcategory": [
+        "8 Seater",
+        "6 Seater",
+        "5 Seater",
+        "4 Seater",
+        "2 Seater"
+      ]
+    },
+    {
+      "id" : 6,
+      "name": "Pouffe",
+      "subcategory": [
+        "Wooden frame",
+        "Wooden Legs",
+        "Wooden frame, Metal Legs",
+        "Wooden Legs, wooden frame"
+      ]
+    },
+    {
+      "id" : 7,
+      "name": "Sofa",
+      "subcategory": [
+        "4 Seater Sofas",
+        "3 Seater Sofas",
+        "2 Seater Sofas",
+        "1 Seater Sofas"
+      ]
+    },
+    {
+      "id" : 8,
+      "name": "TV Console",
+      "subcategory": [
+        "Tv console"
+      ]
+    },
+    {
+      "id" : 9,
+      "name": "TV Unit",
+      "subcategory": [
+        "Wooden frame, storage, shelf"
+      ]
+    }
+  ]
+}

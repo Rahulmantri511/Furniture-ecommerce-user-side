@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "461249743712",
+    "firebase_url": "https://furniture-oko-default-rtdb.firebaseio.com",
+    "project_id": "furniture-oko",
+    "storage_bucket": "furniture-oko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461249743712:android:7527de953a149bde7dac05",
+        "android_client_info": {
+          "package_name": "main.rahuldeveloper.furniture_oko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461249743712-s45ip2rf9qghbe26p817sjif7jej4d0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "main.rahuldeveloper.furniture_oko",
+            "certificate_hash": "c7fa574364aca0a5252e155e3c77635949214b51"
+          }
+        },
+        {
+          "client_id": "461249743712-4cu6rs0m8bloagdkamuqrtp4nm9t5d0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_70eItmlikQELBMAABNZk67VYkeKURY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461249743712-4cu6rs0m8bloagdkamuqrtp4nm9t5d0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461249743712-cgirbetk0un789v172u15k50ga0oc7o5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.furnitureokoApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461249743712:android:1c0cefbc3a770c3d7dac05",
+        "android_client_info": {
+          "package_name": "main.rahuldeveloper.furniture_seller_Side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461249743712-7vdm17id3k15i96cs9u7mvb9eqt2lomh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "main.rahuldeveloper.furniture_seller_Side",
+            "certificate_hash": "c7fa574364aca0a5252e155e3c77635949214b51"
+          }
+        },
+        {
+          "client_id": "461249743712-4cu6rs0m8bloagdkamuqrtp4nm9t5d0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_70eItmlikQELBMAABNZk67VYkeKURY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461249743712-4cu6rs0m8bloagdkamuqrtp4nm9t5d0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461249743712-cgirbetk0un789v172u15k50ga0oc7o5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.furnitureokoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
